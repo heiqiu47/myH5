@@ -1,0 +1,11 @@
+@keyframes myfirst {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+h1 {
+  animation: myfirst 5s infinite;
+}
